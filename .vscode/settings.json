@@ -23,5 +23,7 @@
   "gitlens.advanced.blame.customArguments": [
     "--ignore-revs-file",
     ".git-blame-ignore-revs"
-  ]
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/4a843632-0d26-48db-8eba-e26bb9d09e35/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/idi-webauthn-test1",
+  "appService.deploySubpath": "example"
 }
